@@ -2,12 +2,14 @@
 Welcome! This repository contains a collection of projects I’ve developed throughout my academic journey. <br />
 Each project showcases a variety of skills and technologies I’ve explored, from software engineering to game development. <br />
 <br />
+
 ## What's Inside <br />
 - **[Chat Application](link-to-folder)**: A full-stack Android and web-based chat application built with C#, JavaScript, and MongoDB, featuring user authentication and responsive design. <br />
 - **[Arkanoid Game](link-to-folder)**: A recreation of the classic game Arkanoid using C++ with a focus on Object-Oriented Programming concepts.<br />
 - **[KNN Client-Server System](link-to-folder)**: A multi-threaded application in C++ implementing the K-Nearest Neighbors algorithm for vector classification.<br />
 - **[Educational Programming Game](link-to-folder)**: A 3D Unity game designed to teach programming concepts to children, featuring multiplayer functionality and custom <br /> mechanics.
-<br /> 
+<br />
+
 ## Technologies Used <br />
 - Programming Languages: C, C++, C#, Java, JavaScript <br />
 - Frameworks & Tools: Unity, Android Studio, MongoDB, Node.js <br />
