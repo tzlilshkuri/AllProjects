@@ -23,4 +23,4 @@ Each project folder contains a dedicated README file with details about the proj
 ## Contact <br />
 Feel free to reach out for questions or collaboration opportunities:   <br />
 📧 Email: [tzlil.shkuri4@gmail.com](mailto:tzlil.shkuri4@gmail.com)   <br />
-🔗 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/tzlil-shkuri-6792a730a) <br />
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tzlil-shkuri-6792a730a/)  <br />
