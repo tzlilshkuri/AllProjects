@@ -40,14 +40,12 @@ That is, as soon as a user sends you a message you will get display an appropria
 
 ##### Screenshot for demonstration: <br />
 Bright Theme: <br />
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/f2a238ce-6431-4ef7-a957-67c9f58a9834.png" width="250" height="400">
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/031aebe0-fe91-4e9d-80bb-612fde97d292.png" width="250" height="400">
+<img width="378" alt="IMG1" src="https://github.com/user-attachments/assets/4332b230-b090-496b-8db2-0a1e14b9d01b" />
  <br />
 
 
 Dark Theme: <br />
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/83edaa88-f080-4c28-a120-b21835b2d070.png" width="250" height="400">
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/0a3aac3f-301f-4d0e-a33b-9f8f013857af.png" width="250" height="400">
+![image](https://github.com/user-attachments/assets/b73b2e07-e110-41c6-a104-7b5f98fc603a)
  <br />
 
 
