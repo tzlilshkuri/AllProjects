@@ -45,26 +45,23 @@ Bright Theme: <br />
 
 
 Dark Theme: <br />
-![image](https://github.com/user-attachments/assets/b73b2e07-e110-41c6-a104-7b5f98fc603a)
+<img width="380" alt="IMG2" src="https://github.com/user-attachments/assets/13ecb513-5eef-461b-a290-5eb9fb5f6725" />
  <br />
 
 
 Settings: <br />
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/1250c67a-3c66-4faf-a8e7-62831365713f.png" width="250" height="400">
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/04dbd21b-cce7-4f0d-aeca-aa42442dff82.png" width="250" height="400">
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/cb5f431c-7d88-421f-a2db-b6aa18fe2d58.png" width="250" height="400">
+<img width="572" alt="IMG3" src="https://github.com/user-attachments/assets/d6c42f21-bb8c-4a48-9cdd-9e4a1a317f54" />
  <br />
 
 Contact screen: <br />
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/10f6aab3-7372-4a40-a2a7-bd914b8a8883.png" width="250" height="400">
+<img width="188" alt="IMG4" src="https://github.com/user-attachments/assets/2466afbc-c4a8-4414-92ce-48aeca649cb4" />
  <br />
 
 Chat Screen: <br />
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/15ac5b99-db58-4720-b93e-8e1ae1747df1.png" width="250" height="400">
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/db4779aa-2972-4bc3-8f9f-704d960fdf47.png" width="250" height="400">
+<img width="379" alt="IMG5" src="https://github.com/user-attachments/assets/2e539912-ecf5-4c86-be3a-3fe75b071626" />
  <br />
 
 
 Push Notification: <br />
-<img src="https://github.com/tzlilshkuri/ap2_ex3/assets/118110474/cb9c51d6-026c-4306-9847-1c61914b4645.png" width="250" height="400">
+<img width="193" alt="IMG6" src="https://github.com/user-attachments/assets/7339a66b-bc01-4adc-b6aa-8088058f9ec0" />
  <br />
