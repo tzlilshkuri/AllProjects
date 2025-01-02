@@ -1,0 +1,3 @@
+[submodule "CodeCraze"]
+	path = CodeCraze
+	url = https://github.com/AviadR1998/CodeCraze.git
