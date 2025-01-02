@@ -7,7 +7,7 @@ Each project showcases a variety of skills and technologies I’ve explored, fro
 - **[Chat Application](https://github.com/tzlilshkuri/AllProjects/tree/main/ChatApplication)**: A full-stack Android and web-based chat application built with C#, JavaScript, and MongoDB, featuring user authentication and responsive design. <br />
 - **[Arkanoid Game](https://github.com/tzlilshkuri/AllProjects/tree/main/arkanoid)**: A recreation of the classic game Arkanoid using C++ with a focus on Object-Oriented Programming concepts.<br />
 - **[KNN Client-Server System](https://github.com/tzlilshkuri/AllProjects/tree/main/KNN)**: A multi-threaded application in C++ implementing the K-Nearest Neighbors algorithm for vector classification.<br />
-- **[Educational Programming Game](https://github.com/AviadR1998/CodeCraze/tree/5b0a29114b8ac20f1a3c2190bc3ba463eae88eca)**: A 3D Unity game designed to teach programming concepts to children, featuring multiplayer functionality and custom <br /> mechanics.
+- **[CodeCraze - Educational Programming Game](https://github.com/AviadR1998/CodeCraze/tree/5b0a29114b8ac20f1a3c2190bc3ba463eae88eca)**: A 3D Unity game designed to teach programming concepts to children, featuring multiplayer functionality and custom <br /> mechanics.
 <br />
 
 ## Technologies Used <br />
